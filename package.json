@@ -42,7 +42,7 @@
     "swiper": "^5.3.7",
     "use-lax": "^3.2.0"
   },
-  "homepage": "fianzer.whipple.mx/",
+  "homepage": "./",
   "scripts": {
     "start": "react-scripts start",
     "build": "GENERATE_SOURCEMAP=false react-scripts build",
